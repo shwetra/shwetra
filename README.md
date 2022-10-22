@@ -1,5 +1,23 @@
-# 💫 About Me:
-👋 Hi, I’m @Shwet Rai<br>🌍 I am from Delhi<br>🌱 I'm a Full Stack Web Developer skilled in MERN stack<br>💞 I’m always open to work on collaborative projects<br>💁‍♂️ My portfolio -https://shwetra.github.io/<br>
+<h1 align="left">Hi 👋, I'm Shwet Rai</h1>
+<h3 align="left">I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
+
+ 🔭 I’m currently working on **Something New**
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 Some of my projects are available at [Github](https://github.com/shwetra)
+
+- 📝 I regularly write articles on [Apps4download](https://www.apps4download.com/)
+
+- 💬 Ask me about **CSS**
+
+- 📫 How to reach me [Email](mailto:sanghamrai7@gmail.com)
+
+- 📄 Know about my experiences [Resume]()
+
+- ⚡ Fun fact **I am Sarcastic**
 
 
 ## 🌐 Socials:
