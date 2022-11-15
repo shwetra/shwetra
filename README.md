@@ -7,17 +7,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Some of my projects are available at [Github](https://github.com/shwetra)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shwetra.github.io/) & [Github](https://github.com/shwetra)
 
-- 📝 I regularly write articles on [Apps4download](https://www.apps4download.com/)
+- 📫 How to reach me [Email](mailto:sanghamrai7@gmail.com) & [LinkedIn](https://www.linkedin.com/in/shwet-rai-16238a232/)
 
-- 💬 Ask me about **CSS**
-
-- 📫 How to reach me [Email](mailto:sanghamrai7@gmail.com)
-
-- 📄 Know about my experiences [Resume]()
-
-- ⚡ Fun fact **I am Sarcastic**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z87dD1mMTjXm4H8AIZK5c1L3C2HVf7U0/view?usp=share_link)
 
 
 ## 🌐 Socials:
